@@ -1,4 +1,4 @@
-module github.com/jeyldii/timeout-middleware
+module github.com/jeyldii/timeout => github.com/jeyldii/timeout-middleware
 
 go 1.15
 
