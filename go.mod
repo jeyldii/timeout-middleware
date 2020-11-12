@@ -1,4 +1,4 @@
-module github.com/jeyldii/timeout-middleware
+module github.com/jeyldii/timeout-middleware latest
 
 go 1.15
 
