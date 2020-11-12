@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/timeout"
+	timeout "github.com/jeyldii/timeout-middleware"
 	"github.com/gin-gonic/gin"
 )
 
